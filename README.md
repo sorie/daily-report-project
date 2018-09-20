@@ -19,3 +19,11 @@ npm run build
 ```
 npm run lint
 ```
+
+### vue 사용 설명서
+```
+1. vue 장점
+- 유지보수가 편하다
+
+```
+
